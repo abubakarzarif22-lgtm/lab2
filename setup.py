@@ -25,6 +25,8 @@ setup(
         'console_scripts': [
             'talker = lab2.talker:main',
             'listener = lab2.listener:main',
+            'numeric_talker = lab2.numeric_talker:main',
+            'numeric_listener = lab2.numeric_listener:main',
         ],
     },
 )
